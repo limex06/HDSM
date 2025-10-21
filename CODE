@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+    int numero, resultado;
+
+    printf("Digite um numero inteiro: ");
+    scanf("%d", &numero);
+
+    if (numero > 20) {
+        resultado = numero * 2;
+    } else {
+        resultado = numero * 4;
+    }
+
+    printf("Resultado: %d\n", resultado);
+
+    return 0;
+}
