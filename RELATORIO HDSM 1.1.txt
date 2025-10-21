@@ -1,0 +1,7 @@
+Relatório de Atividade em Grupo
+
+Este documento registra as principais etapas realizadas pelo grupo durante a atividade prática da unidade curricular de Metodologias de Desenvolvimento de Software. O objetivo foi aplicar práticas colaborativas com Git e GitHub, promovendo a divisão de tarefas, versionamento, uso de branches e fusão de alterações.
+
+Cada membro do grupo ficou responsável por contribuir com um ficheiro diferente e todo o fluxo de trabalho foi documentado para garantir a rastreabilidade das ações. O exercício proporcionou experiência real em desenvolvimento de software colaborativo e aprimorou o entendimento sobre integração e comunicação entre os participantes.
+
+Todas as etapas foram cumpridas com sucesso, conforme indicado pela atualização do repositório principal no final do processo.
